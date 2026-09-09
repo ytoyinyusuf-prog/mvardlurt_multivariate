@@ -1,0 +1,15 @@
+d Distribution-Date: 20260909
+d Title: Multivariate ARDL Unit Root Test
+d Description: mvardlurt_multivariate implements the multivariate ARDL unit root test proposed by Sam, McNown, Goh and Goh (2024)
+d Author: [YUSUF TOYIN YUSUF]
+d Affiliation: [KWARA STATE UNIVERSITY]
+d Email: [YUSUF.YUSUF@KWASU.EDU.NG]
+d Version: 1.0.0
+d Requires: Stata version 14
+d License: MIT License
+d Copyright: (c) 2026 [YUSUF TOYIN YUSUF]. All Rights Reserved.
+f mvardlurt_multivariate.ado
+f _mvardlurt_multivariate_bootstrap.ado
+f _mvardlurt_multivariate_diag.ado
+f _mvardlurt_multivariate_graph.ado
+f mvardlurt_multivariate.sthlp
