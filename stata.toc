@@ -2,11 +2,11 @@ d version 1.0.0
 d name "mvardlurt_multivariate"
 d title "Multivariate ARDL Unit Root Test"
 d description "Multivariate ARDL unit root test proposed by Sam, McNown, Goh and Goh (2024)"
-d author "[YUSUF TOYIN YUSUF]"
-d affiliation "[KWARA STATE UNIVERSITY]"
-d email "[YUSUF.YUSUF@KWASU.EDU.NG]"
+d author "YUSUF TOYIN YUSUF"
+d affiliation "KWARA STATE UNIVERSITY"
+d email "YUSUF.YUSUF@KWASU.EDU.NG"
 d url "https://www.yourwebsite.com"
 d distribution-date "20260909"
 d requires "Stata version 14"
-d copyright "(c) 2026 [YUSUF TOYIN YUSUF]. All Rights Reserved."
-p mvardlurt_multivariate
+d copyright "(c) 2026 YUSUF TOYIN YUSUF. All Rights Reserved."
+p mvardlurt_multivariate.pkg
